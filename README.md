@@ -1,4 +1,4 @@
-# 🚀 Laravel API Demo - Full-Stack REST API
+# 🚀 Laravel Simple Blog with Rest API  - Full-Stack REST API
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## 📚 About This Project
 
-**Laravel API Demo** is an educational full-stack web application built with **Laravel 12**, designed to showcase professional development patterns and best practices for building scalable REST APIs with authentication and comprehensive test coverage.
+**Laravel Blog with Rest API** is an educational full-stack web application built with **Laravel 12**, designed to showcase professional development patterns and best practices for building scalable REST APIs with authentication and comprehensive test coverage.
 
 ### 🎓 Learning Purpose
 
@@ -133,7 +133,7 @@ api-demo/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/api-demo.git
+git clone https://github.com/AssadWazir/laravel-blog-with-rest-api-with-sanctum.git
 cd api-demo
 ```
 
@@ -827,7 +827,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Your Name**  Assad wazir
 Full-Stack Developer | Laravel Enthusiast
 
 ---
@@ -839,8 +839,6 @@ Full-Stack Developer | Laravel Enthusiast
 - [ ] User profile pages
 - [ ] Post search and filtering
 - [ ] Email notifications
-- [ ] Rate limiting improvements
-- [ ] GraphQL API alternative
 - [ ] WebSocket real-time updates
 
 ---
