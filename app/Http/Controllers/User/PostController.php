@@ -27,7 +27,7 @@ class PostController extends Controller
     public function index(): View
     {
         $user = auth()->user();
-        $posts = $this->postService->getUserPosts($user, 100)->items();
+        $posts = $this->postService->getUserPosts($user, 100);
 
         return view('user.posts.index', [
             'posts' => $posts,
